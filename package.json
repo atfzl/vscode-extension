@@ -1,7 +1,7 @@
 {
-  "name": "projectile",
-  "displayName": "projectile",
-  "description": "Project Manager inspired from projectile and helm in emacs",
+  "name": "vscode-extension",
+  "displayName": "vscode-extension",
+  "description": "Starter kit for creating vscode extensions",
   "version": "0.0.1",
   "publisher": "atfzl",
   "engines": {
