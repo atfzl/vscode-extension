@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "member-ordering": [false],
+    "ter-indent": [true, 2]
+  }
+}
